@@ -1,6 +1,7 @@
-# Image Dataset Visualization Tool
+# ScalableCCUB Dataset
 
 A Streamlit application for visualizing and comparing image datasets across countries and categories.
+<https://scalableccub.streamlit.app/>
 
 ## Overview
 
